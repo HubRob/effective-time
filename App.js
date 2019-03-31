@@ -15,7 +15,7 @@ class HomeScreen extends React.Component {
   };
 
   state = {
-    fontLoaded: false,
+    fontLoaded: false, 
     redFlex:4,
     orangeFlex:1,
     greenFlex:1
